@@ -1,7 +1,7 @@
 # Exercise-04b-TileSets-Levels
 
 ## Implementation
-
+Added tilemaps and a few levels.
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
@@ -11,4 +11,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Ben Peters
